@@ -1,12 +1,6 @@
 # Hello Folks! 👋
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
-function test() {
- console.log("look ma’, no spaces");
-}
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 <!--
 **hidai25/hidai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
