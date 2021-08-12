@@ -1,6 +1,5 @@
-# Hello Folks! 👋
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+# Hi, I'm Hidai 👋
+
 <!--
 **hidai25/hidai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
