@@ -1,6 +1,6 @@
 # Hi, I'm Hidai 👋
 
-<img src="https://github.com/hidai25/hidai25/blob/main/Cheers.png" alt="banner that says Hidai Bar-Mor - Software Engineer, Data Scientist, Finance Professional">
+<img src="https://github.com/hidai25/hidai25/blob/main/Hidai%20Bar-Mor.png" alt="banner that says Hidai Bar-Mor - Software Engineer, Data Scientist, Finance Professional">
 <!--
 **hidai25/hidai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
