@@ -1,5 +1,12 @@
 # Hello Folks! 👋
-
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+function test() {
+ console.log("look ma’, no spaces");
+}
 <!--
 **hidai25/hidai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
